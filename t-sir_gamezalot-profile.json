@@ -1,0 +1,23 @@
+{
+  "TermsOfServiceVersion": 1,
+  "TermsAgreedToWhen": "2023-04-12T10:22:29Z",
+  "IdClaims": [
+    {
+      "Claim": "t:sir_gamezalot"
+    },
+    {
+      "Claim": "mdon:@sir_gamezalot@paktodon.asia"
+    }
+  ],
+  "IdDisclaims": null,
+  "Signature": {
+    "Authority": "https://whosum.com",
+    "PublicKey": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEApF0NC9C13limzP9H5\u002BcXoWEddOfjDdysecEWNhNxS3yCWdRJjsCpIWY3euUxIFWw9W9Zkbo1tx8YbnLVdCPd7qORelTZZR5I9IvQdsyyqZIeAuw4xk/VcK119Kme13cqhsjOtgCrdekjz5YEklZqXdZKclJMc2fqHjOfHl07lYXWmqx8FxCUjjGCkBcr4WZD/uvs0SXRACkXS01bP0Wbao1sHxyFoADHV5i8Yvg2o32Sy37DMMMOfjO8ZpqqwNKVEs04gGL\u002BnGkDqNP/6lIaTinrzCJe57qcorGcVlWGdV4nC5uMgIgqZ/7pzrCHF5WbXai3g3AObmPJ5eG8TCTsrQIDAQAB",
+    "Nonce": "ad26bd2d9ad6171f72ebae3a",
+    "Timestamp": "2023-04-12T10:46:33Z",
+    "Signature": "9429feaa513fbd1aaf10006d6e2253d4491fb16b7e14b2a31d2fbd651cd89a0bb187ca453a9256ecc8e1b0ac078cb9ec9cb30d00443f7107552a75361e86d2d7fc084b698557981bca6086815f7c51fcebc7751fc4c7333243ce73f98e1a2a33a2912133239bf6eb392873a11c6c1a09184ed61c8a07f237ed95bd336bc6042c242469cfbeec24e6580c219c14af21c1c67a59479a2a0a63c44412c0ccdd34666b6a34d07dfa5b32b5012e0fdb214f95beb1a156a0ed102a21f7df0cd2abbe05bfa300155c389b34010742ae8eb6695ac2245b9a194d2e5e02af8847afc1597874fb3314e5c417b1705120ad8277002244e785905437789ff2cdee07d4610840"
+  },
+  "AgreedToTerms": true,
+  "ContentSha256": "a6aded15f1115b6d0abdfa3862a6bacf1d9f8561d4f1531c05f0bed478298994",
+  "ContentToHash": "v1|mdon:@sir_gamezalot@paktodon.asia,t:sir_gamezalot|2023-04-12T10:22:29Z"
+}
